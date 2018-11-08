@@ -1,6 +1,6 @@
 # Git-Inteliji-Learning
 
-Exploring git commands using GUI of Inteliji IDE
+Exploring git commands using GUI of Inteliji IDE and template for ReadMe
 ---
 
 ## Table of Contents (Optional)
